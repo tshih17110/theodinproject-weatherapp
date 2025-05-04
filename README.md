@@ -1,8 +1,6 @@
 # theodinproject-weatherapp
 
-https://www.theodinproject.com/lessons/node-path-javascript-weather-app
-
-Project deployed on Render
+Learning project from 
 
 ## Features
 
